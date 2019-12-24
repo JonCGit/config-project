@@ -1,48 +1,38 @@
 {
-  "name":"Development",
+  "name":"QA",
   "configGroups":[
     {
-      "groupName":"Breakfast Configs",
+      "groupName":"Curbside Configs",
       "configs":[
         {
-          "configValue":["00069","00133","00302","00308","00330","00362","00482","00562"],
-          "configType":"locationList",
-          "configItemId":"crn.allDayBreakfastLocations"
+          "configValue":"True",
+          "configType":"boolean",
+          "configItemId":"crn.globalEnabledCurbside"
         },
         {
-          "configValue":"10:30 AM",
-          "configType":"timestamp",
-          "configItemId":"crn.breakfastEndTime"
+          "configValue":["00070","03662"],
+          "configType":"locationList",
+          "configItemId":"crn.curbsideOverrideLocations"
         }
       ]
     },
     {
-      "groupName":"Test User Configs",
+      "groupName":"Error Configs",
       "configs":[
         {
-          "configValue":"testuser1@cfa.com",
-          "configType":"email",
-          "configItemId":"crn.username"
-        },
-        {
-          "configValue":"Ftx98Y5kp34@",
+          "configValue":"Order Error",
           "configType":"string",
-          "configItemId":"crn.password"
-        }
-      ]
-    },
-    {
-      "groupName":"Delivery Configs",
-      "configs":[
-        {
-          "configValue":"15",
-          "configType":"integer",
-          "configItemId":"crn.timePadding"
+          "configItemId":"crn.errorTitle"
         },
         {
-          "configValue":["03164","03141","03521","03462","03969","00828"],
-          "configType":"locationList",
-          "configItemId":"crn.deliveryLocations"
+          "configValue":["600","1378"],
+          "configType":"errorCodeList",
+          "configItemId":"crn.errorCodes"
+        },
+        {
+          "configValue":"An item in your order is not available at this location and has been removed from your cart.",
+          "configType":"string",
+          "configItemId":"crn.errorMessage"
         }
       ]
     }
