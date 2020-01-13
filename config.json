@@ -5,7 +5,7 @@
       "groupName": "Offer Configs",
       "configs": [
         {
-          "configValue": "Free Chick-Fil-A Breakfast Item",
+          "configValue": "Free Chick-Fil-A Breakfast Items",
           "configType": "string",
           "configItemId": "crn.offerTitle"
         },
