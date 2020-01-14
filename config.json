@@ -11,8 +11,8 @@
         },
         {
           "configValue": [
-            "03662",
-            "00079"
+            "00070",
+            "03662"
           ],
           "configType": "locationList",
           "configItemId": "crn.curbsideOverrideLocations"
