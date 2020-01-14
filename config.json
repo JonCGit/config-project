@@ -1,38 +1,44 @@
 {
-  "name":"QA",
-  "configGroups":[
+  "name": "qa",
+  "configGroups": [
     {
-      "groupName":"Curbside Configs",
-      "configs":[
+      "groupName": "Curbside Configs",
+      "configs": [
         {
-          "configValue":"True",
-          "configType":"boolean",
-          "configItemId":"crn.globalEnabledCurbside"
+          "configValue": "True",
+          "configType": "boolean",
+          "configItemId": "crn.globalEnabledCurbside"
         },
         {
-          "configValue":["00070","03662"],
-          "configType":"locationList",
-          "configItemId":"crn.curbsideOverrideLocations"
+          "configValue": [
+            "03662",
+            "00079"
+          ],
+          "configType": "locationList",
+          "configItemId": "crn.curbsideOverrideLocations"
         }
       ]
     },
     {
-      "groupName":"Error Configs",
-      "configs":[
+      "groupName": "Error Configs",
+      "configs": [
         {
-          "configValue":"Order Error",
-          "configType":"string",
-          "configItemId":"crn.errorTitle"
+          "configValue": "Order Error",
+          "configType": "string",
+          "configItemId": "crn.errorTitle"
         },
         {
-          "configValue":["600","1378"],
-          "configType":"errorCodeList",
-          "configItemId":"crn.errorCodes"
+          "configValue": [
+            "600",
+            "1378"
+          ],
+          "configType": "errorCodeList",
+          "configItemId": "crn.errorCodes"
         },
         {
-          "configValue":"An item in your order is not available at this location and has been removed from your cart.",
-          "configType":"string",
-          "configItemId":"crn.errorMessage"
+          "configValue": "An item in your order is not available at this location and has been removed from your cart.",
+          "configType": "string",
+          "configItemId": "crn.errorMessage"
         }
       ]
     }
