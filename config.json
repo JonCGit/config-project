@@ -16,7 +16,8 @@
             "00079",
             "00235",
             "00234",
-            "12344"
+            "12344",
+            "commitmsg"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
