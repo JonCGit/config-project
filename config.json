@@ -18,7 +18,8 @@
             "00234",
             "12344",
             "commitmsg",
-            "dsdbdxb"
+            "dsdbdxb",
+            "commitmsg"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
