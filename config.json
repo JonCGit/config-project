@@ -24,7 +24,7 @@
           "configItemId": "crn.allDayBreakfastLocations"
         },
         {
-          "configValue": "10:30 AM",
+          "configValue": "10:30 PM",
           "configType": "timestamp",
           "configItemId": "crn.breakfastEndTime"
         }
