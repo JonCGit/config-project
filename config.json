@@ -12,7 +12,8 @@
         {
           "configValue": [
             "00070",
-            "03662"
+            "03662",
+            "12345"
           ],
           "configType": "locationList",
           "configItemId": "crn.curbsideOverrideLocations"
