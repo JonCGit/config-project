@@ -8,7 +8,6 @@
           "configValue": [
             "00133",
             "00302",
-            "",
             "00331",
             "00362",
             "00568",
@@ -16,10 +15,7 @@
             "00079",
             "00235",
             "00234",
-            "12344",
-            "commitmsg",
-            "dsdbdxb",
-            "commitmsg"
+            "12344"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
