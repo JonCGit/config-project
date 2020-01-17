@@ -1,5 +1,5 @@
 {
-  "name": "Development",
+  "name": "development",
   "configGroups": [
     {
       "groupName": "Breakfast Configs",
@@ -18,7 +18,8 @@
             "00571",
             "12389",
             "12345",
-            "00342"
+            "00342",
+            "02846"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
