@@ -12,13 +12,13 @@
             "00235",
             "00234",
             "12344",
-            "00341",
             "99979",
             "00313",
             "12399",
             "00571",
             "12389",
-            "12345"
+            "12345",
+            "00342"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
