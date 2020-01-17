@@ -5,7 +5,7 @@
       "groupName": "Curbside Configs",
       "configs": [
         {
-          "configValue": "False",
+          "configValue": "True",
           "configType": "boolean",
           "configItemId": "crn.globalEnabledCurbside"
         },
