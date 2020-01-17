@@ -21,13 +21,15 @@
             "00342",
             "02846",
             "00238",
-            "45345"
+            "45345",
+            "23523",
+            "12385"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
         },
         {
-          "configValue": "10:30 PM",
+          "configValue": "10:30 AM",
           "configType": "timestamp",
           "configItemId": "crn.breakfastEndTime"
         }
