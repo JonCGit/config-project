@@ -1,11 +1,11 @@
 {
-  "name": "QA",
+  "name": "qa",
   "configGroups": [
     {
       "groupName": "Curbside Configs",
       "configs": [
         {
-          "configValue": "True",
+          "configValue": "False",
           "configType": "boolean",
           "configItemId": "crn.globalEnabledCurbside"
         },
