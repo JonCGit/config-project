@@ -7,6 +7,7 @@
         {
           "configValue": [
             "00135",
+            "00355",
             "00499",
             "00235",
             "00234",
@@ -22,8 +23,7 @@
             "00238",
             "45345",
             "23523",
-            "12385",
-            "00334"
+            "12385"
           ],
           "configType": "locationList",
           "configItemId": "crn.allDayBreakfastLocations"
