@@ -14,7 +14,8 @@
             "00070",
             "03662",
             "12345",
-            "22016"
+            "22016",
+            "98124"
           ],
           "configType": "locationList",
           "configItemId": "crn.curbsideOverrideLocations"
