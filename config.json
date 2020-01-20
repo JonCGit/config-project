@@ -5,7 +5,7 @@
       "groupName": "Curbside Configs",
       "configs": [
         {
-          "configValue": "False",
+          "configValue": "True",
           "configType": "boolean",
           "configItemId": "crn.globalEnabledCurbside"
         },
@@ -16,7 +16,8 @@
             "12345",
             "22016",
             "98124",
-            "23853"
+            "23853",
+            "28371"
           ],
           "configType": "locationList",
           "configItemId": "crn.curbsideOverrideLocations"
