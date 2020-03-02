@@ -10,7 +10,7 @@
           "configItemId": "crn.offerTitle"
         },
         {
-          "configValue": "Enjoy one of these breakfast items on us! Offer expires 12/31/2019.",
+          "configValue": "Enjoy one of these breakfast items on us! Offer expires 12/31/2019!",
           "configType": "string",
           "configItemId": "crn.offerMessage"
         },
